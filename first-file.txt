@@ -2,6 +2,4 @@ Hey, this is for learning git
 
 making a new commit
 
-balblablalb yet another commit
-
-nore balblabla
+yet another commit
