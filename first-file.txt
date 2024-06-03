@@ -5,3 +5,4 @@ making a new commit
 yet another commit
 
 a change that is not on the work in progress branch
+first commit on a new branch
